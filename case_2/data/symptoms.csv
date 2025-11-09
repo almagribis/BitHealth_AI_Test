@@ -1,0 +1,95 @@
+id,visit_id,symptom
+1,1,demam
+2,1,batuk
+3,1,sesak napas
+4,2,mual
+5,2,sakit perut
+6,3,pusing
+7,3,kehilangan keseimbangan
+8,4,susah tidur
+9,5,sakit gigi
+10,6,pusing
+11,6,sakit perut
+12,7,batuk
+13,7,menggigil
+14,7,nyeri dada
+15,8,nyeri lutut
+16,8,nyeri punggung
+17,9,nyeri dada
+18,9,lemas
+19,10,batuk
+20,10,sesak napas
+21,11,demam
+22,11,pusing
+23,12,nyeri dada
+24,12,napas pendek
+25,13,demam
+26,14,ruam kulit
+27,14,gatal-gatal
+28,15,pusing
+29,15,sakit kepala
+30,16,sakit perut
+31,16,mual
+32,17,nyeri dada
+33,17,pusing
+34,18,demam
+35,18,batuk
+36,19,sakit kepala
+37,20,nyeri bahu
+38,20,nyeri lutut
+39,21,batuk
+40,21,sesak napas
+41,21,nyeri dada
+42,22,sakit gigi
+43,22,gusi bengkak
+44,23,pusing
+45,23,lemas
+46,24,nyeri dada
+47,24,berdebar
+48,25,demam
+49,25,pusing
+50,26,pusing
+51,26,lemah
+52,27,sakit kepala
+53,27,insomnia
+54,28,nyeri dada
+55,28,napas pendek
+56,29,nyeri punggung
+57,29,nyeri lutut
+58,29,sulit berjalan
+59,30,demam
+60,30,sakit kepala
+61,31,batuk
+62,31,batuk berdahak
+63,31,sesak napas
+64,32,nyeri dada
+65,32,demam
+66,33,pusing
+67,33,batuk
+68,34,pusing
+69,34,kesemutan
+70,35,demam
+71,35,mual
+72,35,sakit perut
+73,36,nyeri dada
+74,36,lemas
+75,37,pusing
+76,37,sakit kepala
+77,37,tekanan darah tinggi
+78,38,nyeri lutut
+79,38,nyeri punggung
+80,39,batuk
+81,39,sesak napas
+82,39,napas berbunyi
+83,40,demam
+84,40,pusing
+85,41,sakit kepala
+86,41,nyeri leher
+87,42,susah tidur
+88,42,migrain
+89,42,kehilangan keseimbangan
+90,42,lemas
+91,3,susah tidur
+92,15,kehilangan keseimbangan
+93,26,migrain
+94,9,sakit kepala
