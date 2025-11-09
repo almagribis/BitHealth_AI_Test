@@ -64,7 +64,7 @@ pip install pandas
 ```
 
 ### How to Run:
-1. Open the notebook file [setup_db.ipynb](case_2/setup_db.ipynb).
+1. Open the notebook file [perform_query.ipynb](case_2/perform_query.ipynb).
 2. Run all cells in order.
 3. Detail process to creating db and perform query are available in [README.md](case_2/README.md).
 
